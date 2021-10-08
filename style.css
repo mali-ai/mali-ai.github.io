@@ -1,0 +1,14 @@
+body{
+    background-color: lightgray;
+}
+
+code{
+    background-color: lightgray;
+    padding: 4px;
+    margin-left: 15vw;
+    border-radius: 7%;
+}
+
+footer{
+    text-align: center;
+}
